@@ -2,7 +2,7 @@
 //  RideCell.swift
 //  RideSharer
 //
-//  Created by Kabir Dhillon on 8/16/23.
+//  Created by Ashni Croospulle
 //
 
 import UIKit
